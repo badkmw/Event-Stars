@@ -1,2 +1,2 @@
-# taMallia
- salon-hair-mgt-sys
+# Event Stars
+ mgt-sys
